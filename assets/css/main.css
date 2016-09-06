@@ -3818,6 +3818,12 @@
 		background-color: #1d242a;
 	}
 
+
+
+	/*********************************
+	          ME PHOTO STYLES
+	*********************************/
+
 	.me-png {
 		margin: 0 auto 2em;
 		width: 23%;
@@ -3855,10 +3861,39 @@
 		display: block;
 	}
 
+
+	/*********************************
+	          TECH STYLES
+	*********************************/
+
 	.tech-rows {
 		margin: 3em;
 	}
 
 	.css-tech {
 		width: 37%;
+	}
+
+	@media screen and (max-width: 980px) {
+
+		.tech-img {
+			width: 45%;
+		}
+
+		.css-tech {
+		width: 35%;
+	}
+
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.tech-img {
+			width: 90%;
+		}
+
+		.css-tech {
+		width: 70%;
+	}
+
 	}
