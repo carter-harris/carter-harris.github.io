@@ -3855,11 +3855,6 @@
 	}
 
 
-	.tech-img {
-		margin: 0 auto;
-		width: 50%;
-		display: block;
-	}
 
 
 	/*********************************
@@ -3868,6 +3863,12 @@
 
 	.tech-rows {
 		margin: 3em;
+	}
+
+	.tech-img {
+		margin: 0 auto;
+		width: 50%;
+		display: block;
 	}
 
 	.css-tech {
