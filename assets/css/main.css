@@ -3856,6 +3856,27 @@
 
 
 
+	/*********************************
+	         PORTFOLIO STYLES
+	*********************************/
+
+	.rain-jacket-screen-shot {
+		padding-left: 3%
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.rain-jacket-screen-shot {
+			padding-top: 4%;
+			padding-right: 3%;
+		}
+
+	}
+
+	.screen-shot {
+		padding: 3%;
+	}
+
 
 	/*********************************
 	          TECH STYLES
@@ -3890,11 +3911,11 @@
 	@media screen and (max-width: 736px) {
 
 		.tech-img {
-			width: 90%;
+			width: 100%;
 		}
 
 		.css-tech {
-		width: 70%;
-	}
+		width: 77%;
+		}
 
 	}
