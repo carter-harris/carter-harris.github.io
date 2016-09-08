@@ -3857,21 +3857,23 @@
 
 
 	/*********************************
-	         PORTFOLIO STYLES
+	          ME PHOTO STYLES
 	*********************************/
 
-	.rain-jacket-screen-shot {
-		padding-left: 3%
+	.resume {
+		color: #E74C3C;
 	}
 
-	@media screen and (max-width: 736px) {
-
-		.rain-jacket-screen-shot {
-			padding-top: 4%;
-			padding-right: 3%;
-		}
-
+	.resume:hover {
+		font-size: 1.2em;
 	}
+
+
+
+
+	/*********************************
+	         PORTFOLIO STYLES
+	*********************************/
 
 	.screen-shot {
 		padding: 3%;
