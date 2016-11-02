@@ -2734,6 +2734,10 @@
 				border-color: rgba(0, 0, 0, 0.125);
 			}
 
+			.wrapper.style1 .icon.major:hover {
+				background-color: #2e3842;
+			}
+
 			.wrapper.style1 ul.alt li {
 				border-color: rgba(0, 0, 0, 0.125);
 			}
